@@ -1,11 +1,11 @@
 //! 1 показував
 
 //! 2
-const year = +prompt('Ваш рік народження: ')
-const year1 = +prompt('Поточний рік: ')
-console.log('✌️year --->',typeof year);
-console.log('✌️year2 --->',typeof year1);
-alert(year1 - year)
+// const year = +prompt('Ваш рік народження: ')
+// const year1 = +prompt('Поточний рік: ')
+// console.log('✌️year --->',typeof year);
+// console.log('✌️year2 --->',typeof year1);
+// alert(year1 - year)
 
 //! 3
 // const long = +prompt('Довжина сторони квадрата: ')
