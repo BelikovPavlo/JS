@@ -1,12 +1,12 @@
-const sum = (args) => {
-    let sum = 0;
+// const sum = (args) => {
+//     let sum = 0;
   
-    for (let i = 0; i < args.length; i++) {
-      sum += args[i];
-    }
+//     for (let i = 0; i < args.length; i++) {
+//       sum += args[i];
+//     }
   
-    return sum;
-  };
+//     return sum;
+//   };
   
-  const result = sum([5, 3, 1, 8, 3]);
-  console.log(result);
+//   const result = sum([5, 3, 1, 8, 3]);
+//   console.log(result);
